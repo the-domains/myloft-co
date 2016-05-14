@@ -1,0 +1,28 @@
+name: myloft.co
+favicon: null
+layout_spectrum: 0.527579958550632
+typography_spectrum: 0.30896988534368575
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.693239226937294
+  lightness: 0.15360404108650982
+  saturation: 0.5080535798333585
+  rhythmicContrast: 0.028375978814437985
+purpose: []
